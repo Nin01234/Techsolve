@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: tech-solve-ai-main.vercel.app
+**URL**: https://tech-solve-ai-main.vercel.app
 
 ## How can I edit this code?
 
